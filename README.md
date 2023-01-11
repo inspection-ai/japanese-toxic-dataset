@@ -1,12 +1,15 @@
 # japanese-toxic-dataset
 
-ANLP2022 "Proposal and Evaluation of Japanese Toxicity Schema" provides a schema and dataset for toxicity in the Japanese language.
+"Proposal and Evaluation of Japanese Toxicity Schema" provides a schema and dataset for toxicity in the Japanese language.
 
 The repository is structured as follows:
 
-- `schema_en.md`: Labeling schema.
-- `data/subset.csv`: A subset of the dataset used in "Proposal and Evaluation of Japanese Toxicity Schema". Annotation details are described in `schema_en.md`.
+- `schema.md`: Labeling schema.
+- `data/subset.csv`: A subset of the dataset used in "Proposal and Evaluation of Japanese Toxicity Schema". Annotation details are described in `schema.md`.
 
+## For Japanese
+
+[README_ja.md](./README_ja.md) is written in Japanese.
 
 ## Dataset Details
 
